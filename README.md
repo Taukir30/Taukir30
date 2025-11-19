@@ -3,7 +3,13 @@
        width="100%" /> </p>
 <h1 align="center"> Hi 👋, I'm TAUKIR AHMED </h1>
 
-### A passionate frontend developer from Bangladesh
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" width="70%">
+    <span style="font-size:22px; font-weight:700; color:#3B82F6;">
+           A passionate frontend developer from Bangladesh
+    </span>
+  </marquee>
+</p>
 
 ---
 
