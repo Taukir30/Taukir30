@@ -1,10 +1,9 @@
-# Hi 👋, I'm TAUKIR AHMED
-
-### A passionate frontend developer from Bangladesh
-
 <p align="left"> <img src="https://i.ibb.co.com/0RkkWVgB/5908352-Mesa-de-trabajo-1.png" 
        alt="cover image" 
        width="100%" /> </p>
+# Hi 👋, I'm TAUKIR AHMED
+
+### A passionate frontend developer from Bangladesh
 
 - 📫 How to reach me **taukirahmed30@gmail.com**
 
