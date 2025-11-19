@@ -61,7 +61,7 @@ I am a passionate Full Stack Developer with a knack for building robust and user
 
 ### 📁 GitHub Statistics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=taukir30&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=taukir30&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=taukir30&show_icons=true&locale=en&layout=compact" />
 </p>
 
