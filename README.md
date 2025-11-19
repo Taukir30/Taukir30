@@ -62,14 +62,14 @@ I am a passionate Full Stack Developer with a knack for building robust and user
 ### 📁 GitHub Statistics
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=taukir30&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=taukir30&show_icons=true&locale=en&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taukir30&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=taukir30&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshbyte&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
