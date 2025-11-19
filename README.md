@@ -5,6 +5,8 @@
 
 ### A passionate frontend developer from Bangladesh
 
+---
+
 - 📫 How to reach me **taukirahmed30@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[http://taukir.intelsofts.com](http://taukir.intelsofts.com)**
