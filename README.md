@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co.com/0RkkWVgB/5908352-Mesa-de-trabajo-1.png" 
+<p align="center"> <img src="https://i.ibb.co.com/LhZ4gKr1/github-Banner.png" 
        alt="cover image" 
        width="100%" /> </p>
 <h1 align="center"> Hi 👋, I'm TAUKIR AHMED </h1>
