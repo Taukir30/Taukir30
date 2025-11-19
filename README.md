@@ -54,7 +54,7 @@ I am a passionate Full Stack Developer with a knack for building robust and user
 
 ### 🟩 GitHub Contributions
 <p align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/reshbyte" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/6C63FF/taukir30" alt="GitHub Contribution Chart" />
 </p>
 
 ---
