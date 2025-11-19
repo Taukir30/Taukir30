@@ -50,3 +50,5 @@ I am a passionate Full Stack Developer with a knack for building robust and user
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taukir30&" alt="taukir30" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taukir30&" alt="taukir30" /></p>
+
