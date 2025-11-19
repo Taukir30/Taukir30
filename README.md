@@ -1,4 +1,5 @@
-https://i.ibb.co.com/0RkkWVgB/5908352-Mesa-de-trabajo-1.png
+
+<img align="right" src="https://i.ibb.co.com/0RkkWVgB/5908352-Mesa-de-trabajo-1.png">
 <h1 align="center">Hi 👋, I'm Taukir Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
