@@ -2,7 +2,9 @@
 
 ### A passionate frontend developer from Bangladesh
 
-<p align="left"> <img src="https://i.ibb.co.com/C58KwBB3/uiux.jpg" alt="taukir30" /> </p>
+<p align="left"> <img src="https://i.ibb.co.com/C58KwBB3/uiux.jpg" 
+       alt="cover image" 
+       width="100%" /> </p>
 
 - 📫 How to reach me **taukirahmed30@gmail.com**
 
