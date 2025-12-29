@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co.com/YByWwzyq/resized.jpg" 
+<p align="center"> <img src="https://i.ibb.co.com/YFZs5Nxx/Blue-and-White-Modern-Business-Channel-Youtube-Banner-1.png" 
        alt="cover image" 
        width="100%" /> </p>
 <h1 align="center"> Hi 👋, I'm TAUKIR AHMED </h1>
