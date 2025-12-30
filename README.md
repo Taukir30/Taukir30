@@ -98,8 +98,6 @@ I am a passionate Full Stack Developer with a knack for building robust and user
 ---
 
 ### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taukir30&theme=tokyonight&hide_border=false" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taukir30)](https://git.io/streak-stats)
 
 ---
