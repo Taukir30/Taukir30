@@ -94,6 +94,7 @@ I am a passionate Full Stack Developer with a knack for building robust and user
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=taukir30&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taukir30&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=86400" />
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taukir30)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
