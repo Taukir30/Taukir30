@@ -17,9 +17,9 @@
 I am a passionate Full Stack Developer with a knack for building robust and user-friendly web applications. I am specialize in bridging the gap between elegant frontend design and powerful backend architecture.
 
 - 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m currently deepening my knowledge in **React & Node**
+- 🌱 I’m currently deepening my knowledge in **React, Node & Next.js**
 - 👯 I’m looking to collaborate on **Open Source MERN Stack projects**
-- 💬 Ask me about **React, Tailwind, Node.js, or Laravel**
+- 💬 Ask me about **React, Tailwind, Node.js, or Next.js**
 
 ---
 
