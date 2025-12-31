@@ -79,7 +79,7 @@ I am a passionate Full Stack Developer with a knack for building robust and user
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
 
 ---
----
+
 ## 📊 GitHub Statistics & Analysis
 
 ### 🟩 GitHub Contributions
@@ -94,7 +94,7 @@ I am a passionate Full Stack Developer with a knack for building robust and user
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=taukir30&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taukir30&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=86400" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taukir30)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=taukir30&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taukir30&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 ---
 
