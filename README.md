@@ -5,17 +5,9 @@
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" width="70%">
     <span style="font-size:22px; font-weight:700; color:#3B82F6;">
-           A passionate full-stack developer from 
+           A passionate full-stack developer from Bangladesh
     </span>
   </marquee>
-</p>
-
-<p align="center">
-       <marquee behavior="scroll" direction="left" scrollamount="6" width="70%">
-           <span style="font-size:22px; font-weight:700; color:#3B82F6;">
-              Jamalpur Sadar Upazila, Bangladesh
-            </span>
-       </marquee>
 </p>
 
 ---
